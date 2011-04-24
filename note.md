@@ -12,4 +12,7 @@
 3. ctrl+] 跳到调用
 4. ctrl+o 返回
 
+##remove a repository
+   dashboard -> projectname -> admin ->delete
 
+##
