@@ -7,5 +7,9 @@
 5. git push
 
 ##ctags
-1. ctrl+] 跳到调用
-2. ctrl+o 返回
+1. sudo apt-get install exuberant-ctags
+2. ctags + .c文件
+3. ctrl+] 跳到调用
+4. ctrl+o 返回
+
+
